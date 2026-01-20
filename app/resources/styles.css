@@ -1,0 +1,58 @@
+body {
+    background-color: #292929;
+    color: #ffffff;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+.nav a {
+    padding-left: 1%;
+    padding-right: 1%;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.nav a {
+    transition: color 0.5s ease, transform 0.5s ease;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+#index_link:hover {
+    color: #989898;
+    transform: scale(1.2);
+}
+
+#season_one_link:hover {
+    color: #c445b3;
+    transform: scale(1.2);
+}
+
+#season_two_link:hover {
+    color: #dedf91;
+    transform: scale(1.2);
+}
+
+#special_episode_link:hover {
+    color: #bc6457;
+    transform: scale(1.2);
+}
+
+#movie_link:hover {
+    color: #4c4bba;
+    transform: scale(1.2);
+}
+
+.info {
+    list-style-type: none;
+}
+
+.info li {
+    padding-bottom: 2.5%;
+}

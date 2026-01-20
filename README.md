@@ -1,5 +1,7 @@
 # Bocchi The Rock! Frontend
 
+<img width="40%" src="https://github.com/user-attachments/assets/1897db0b-4cad-4ab3-a5e5-b9844ae9a82a" />
+
 A web application dedicated to the anime "Bocchi The Rock!" built with a custom HTTP engine written in pure Node.js without any external dependencies.
 
 ## Overview
